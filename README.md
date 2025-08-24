@@ -1,10 +1,10 @@
-# Prework - *Name of App Here*
+# Prework - *My Prework*
 
-Submitted by: **Your Name Here**
+Submitted by: **Matthew Campoverde**
 
-**Name of your app** is an app that... [TODO] 
+**MyPrework** is an app that changes the background color of the screen when a button is pressed.
 
-Time spent: **X** hours spent in total
+Time spent: **1** hours spent in total
 
 ## Required Features
 
@@ -23,7 +23,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Challenges involved in building the app simply included getting used to XCode's interface
 
 ## License
 
